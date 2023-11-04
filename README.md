@@ -1,6 +1,6 @@
 
 # Banking System using Python and MySQL - 
-A simple Hotel Management system with Python and MySQL database with TKinter GUI.
+A simple ATM Management system with Python and MySQL database with TKinter GUI.
 Easily customizable with flexible syntax.
 
 
